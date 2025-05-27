@@ -1,7 +1,7 @@
 <table style="font-family: Arial; border: none; padding: 20px;">
   <tr>
     <td>
-      <h2>[Your Name]</h2>
+      <h2>[www.buffoalchemy.com]</h2>
       <p>Founder | <strong>Buffo Alchemy</strong></p>
       <p>🌿 Elevating Natural Chemistry</p>
       <p>📧 <a href="mailto:sales@buffoalchemy.com">sales@buffoalchemy.com</a></p>
