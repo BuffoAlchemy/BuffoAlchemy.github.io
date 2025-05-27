@@ -6,4 +6,3 @@
       <p>🌐 <a href="https://www.buffoalchemy.com">www.buffoalchemy.com</a></p>
       <p>📍 Budva, Montenegro</p>
       <p>🔬 Research • Nootropics • Nature</p>
-    </div>
