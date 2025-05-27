@@ -1,11 +1,13 @@
-<table style="font-family: Arial, 
-      <strong>[Your Name]</strong><br>
-      Founder | <strong>Buffo Alchemy</strong><br>
-      🌿 Elevating Natural Chemistry<br>
-      📧 <a href="mailto:sales@buffoalchemy.com" style="color: #0066cc;">sales@buffoalchemy.com</a><br>
-      🌐 <a href="http://www.buffoalchemy.com" style="color: #0066cc;">www.buffoalchemy.com</a><br>
-      📍 Budva, Montenegro<br>
-      🔬 Research • Nootropics • Nature
+<table style="font-family: Arial; border: none; padding: 20px;">
+  <tr>
+    <td>
+      <h2>[Your Name]</h2>
+      <p>Founder | <strong>Buffo Alchemy</strong></p>
+      <p>🌿 Elevating Natural Chemistry</p>
+      <p>📧 <a href="mailto:sales@buffoalchemy.com">sales@buffoalchemy.com</a></p>
+      <p>🌐 <a href="https://www.buffoalchemy.com">www.buffoalchemy.com</a></p>
+      <p>📍 Budva, Montenegro</p>
+      <p>🔬 Research • Nootropics • Nature</p>
     </td>
   </tr>
 </table>
