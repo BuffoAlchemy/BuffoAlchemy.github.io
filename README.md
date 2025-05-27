@@ -7,5 +7,3 @@
       <p>📍 Budva, Montenegro</p>
       <p>🔬 Research • Nootropics • Nature</p>
     </div>
-  </body>
-</html>
